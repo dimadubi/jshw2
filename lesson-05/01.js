@@ -24,3 +24,6 @@ const game = {
     }
   }
 }
+
+// game.addResource("gold",50 )
+// console.log(game.resources["gold"]);
